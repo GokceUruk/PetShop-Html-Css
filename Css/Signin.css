@@ -2,8 +2,7 @@ body {
   background-image: url("../Images/mainpage.png");
   background-repeat: no-repeat;
 
-  height: 100%;
-  width: 100%;
+  background-size: 100%;
 }
 .Signin {
   display: flex;
